@@ -1,0 +1,8 @@
+C:\Users\user\Documents\GitHub\LikeAKahoot\ServerTest\ServerTest\bin\Debug\ServerTest.exe.config
+C:\Users\user\Documents\GitHub\LikeAKahoot\ServerTest\ServerTest\bin\Debug\ServerTest.exe
+C:\Users\user\Documents\GitHub\LikeAKahoot\ServerTest\ServerTest\bin\Debug\ServerTest.pdb
+C:\Users\user\Documents\GitHub\LikeAKahoot\ServerTest\ServerTest\obj\Debug\ServerTest.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\LikeAKahoot\ServerTest\ServerTest\obj\Debug\ServerTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\LikeAKahoot\ServerTest\ServerTest\obj\Debug\ServerTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\LikeAKahoot\ServerTest\ServerTest\obj\Debug\ServerTest.exe
+C:\Users\user\Documents\GitHub\LikeAKahoot\ServerTest\ServerTest\obj\Debug\ServerTest.pdb

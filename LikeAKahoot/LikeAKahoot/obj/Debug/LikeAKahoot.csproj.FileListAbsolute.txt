@@ -1,0 +1,16 @@
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\bin\Debug\LikeAKahoot.exe.config
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\bin\Debug\LikeAKahoot.exe
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\bin\Debug\LikeAKahoot.pdb
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\obj\Debug\LikeAKahoot.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\obj\Debug\LikeAKahoot.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\obj\Debug\App.g.cs
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\obj\Debug\LikeAKahoot_MarkupCompile.cache
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\obj\Debug\LikeAKahoot_MarkupCompile.lref
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\obj\Debug\LikeAKahoot.g.resources
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\obj\Debug\LikeAKahoot.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\obj\Debug\LikeAKahoot.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\obj\Debug\LikeAKahoot.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\obj\Debug\LikeAKahoot.exe
+C:\Users\user\Documents\GitHub\LikeAKahoot\LikeAKahoot\LikeAKahoot\obj\Debug\LikeAKahoot.pdb
